@@ -1,10 +1,22 @@
 {
   "productos": [
     {
+      "id": "1",
+      "nombre_producto": "Sable 1",
+      "precio": "30.90",
+      "imagen": "./images/1.jpeg"
+    },
+    {
       "id": "2",
-      "nombre_producto": "sable 2",
-      "precio": "33.90",
-      "imagen": ""
+      "nombre_producto": "Sable 2",
+      "precio": "45.00",
+      "imagen": "./images/2.jpeg"
+    },
+    {
+      "id": "3",
+      "nombre_producto": "Sable 3",
+      "precio": "20.90",
+      "imagen": "./images/3.jpeg"
     }
   ]
 }
