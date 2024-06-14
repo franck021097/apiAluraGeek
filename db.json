@@ -1,0 +1,10 @@
+{
+  "productos": [
+    {
+      "id": "2",
+      "nombre_producto": "sable 2",
+      "precio": "33.90",
+      "imagen": ""
+    }
+  ]
+}
